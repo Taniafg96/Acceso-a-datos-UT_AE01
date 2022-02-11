@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/pojo/FlyPojo.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/crud/ClientCRUD.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/pojo/ClientPojo.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/controller/ClientCtrl.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/crud/HousingCRUD.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/ConnectionDB.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/CreateDB.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/view/MainWindow.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/pojo/VacationPackagePojo.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/view/panels/housing/HousingInsert.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/model/crud/VacationPackageCRUD.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/view/panels/clients/ClientInsert.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/controller/VacationPackageCtrl.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/view/panels/clients/ClientRead.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/UT04_AE01/src/view/panels/housing/HousingSearch.java</file>
+        </group>
+    </open-files>
+</project-private>

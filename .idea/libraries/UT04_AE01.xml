@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UT04_AE01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UT04_AE01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
